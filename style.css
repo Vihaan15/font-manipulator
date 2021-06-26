@@ -1,0 +1,15 @@
+#first_div {
+    box-shadow: blue;
+    color: blue;
+    font-family: 'Special Elite' , cursive;
+}
+
+#text {
+    box-shadow: brown;
+    background-color: tomato;
+    color: brown;
+    font-family: 'Special Elite' , cursive;
+    margin-top: 85px;
+    font-size: large;
+
+}
